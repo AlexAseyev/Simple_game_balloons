@@ -536,6 +536,7 @@ MonoBehaviour:
   downSpawnPoint: {fileID: 410575922}
   blueBallonObj: {fileID: 8163126755733955905, guid: 13fdfeef358784e8f8aac10c69085885, type: 3}
   pinkBalloonObj: {fileID: 8133220000480595041, guid: bea125f21178d44249ce3fba3fc77934, type: 3}
+  yellowBalloonObj: {fileID: 7477614850474355432, guid: c71878ba7eac643b2b9ed2af2ca2be26, type: 3}
   balloonsList: []
 --- !u!224 &410575928
 RectTransform:

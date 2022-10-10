@@ -9,6 +9,7 @@ public class DownSpawn : MonoBehaviour
     // balloons
     public GameObject blueBallonObj;
     public GameObject pinkBalloonObj;
+    public GameObject yellowBalloonObj;
     [SerializeField]
 
     private List<GameObject> balloonsList = new List<GameObject>();
@@ -57,6 +58,7 @@ public class DownSpawn : MonoBehaviour
     {
         balloonsList.Add(blueBallonObj);
         balloonsList.Add(pinkBalloonObj);
+        balloonsList.Add(yellowBalloonObj);
     }
 
     private GameObject getBalloon()
